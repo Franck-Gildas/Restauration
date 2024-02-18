@@ -1,0 +1,18 @@
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\bin\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\bin\Debug\Types.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\obj\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Phase B\Restauration\Types\obj\Debug\Types.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\bin\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\bin\Debug\Types.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\obj\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase C\Restauration\Types\obj\Debug\Types.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\bin\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\bin\Debug\Types.pdb
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\obj\Debug\Types.dll
+C:\Users\frank\Documents\CCNB\Deuxieme annee\Session d'automne\PROG1236 - Programmation d'applications de données multicouches sous .NET\Devoir 3\Phase D\Restauration\Types\obj\Debug\Types.pdb
